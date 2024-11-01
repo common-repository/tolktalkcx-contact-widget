@@ -1,0 +1,8 @@
+# Changelog
+All notable changes to the plugin will be documented in this file.
+
+## 1.0.0 - 2020-12-04
+### Initial release
+
+## 1.0.1 - 2021-06-14
+### appearance update for tolktalkCX Widget
